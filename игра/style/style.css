@@ -1,0 +1,29 @@
+html{
+    background: plum;
+    display: flex;
+    justify-content: center;
+}
+
+.out{
+    position: relative;
+    height: 30px;
+    width: 237px;
+    border: solid black 3px;
+    margin-bottom: 3px;
+}
+
+input{
+    border: solid black 3px;
+    background: rgb(250, 173, 250);   
+}
+
+button{
+    border: solid black 3px;
+    background: rgb(250, 173, 250);
+}
+
+.all{
+  position: relative;
+  width: 300px;
+  height: 300px;
+}
